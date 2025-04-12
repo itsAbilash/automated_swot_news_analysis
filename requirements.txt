@@ -1,0 +1,21 @@
+# Core data processing
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# NLP & Embeddings
+nltk
+spacy
+sentence-transformers
+torch
+
+# Visualization
+wordcloud
+
+# Web App
+flask
+
+# Optional: For production deployment
+gunicorn

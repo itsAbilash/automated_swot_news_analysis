@@ -24,3 +24,21 @@ Developed as part of *IDS 572 – Deep Learning & Modern Applications* at the Un
 - **Data Viz**: `matplotlib`, `seaborn`, `wordcloud`
 - **Web App**: `Flask`, `HTML/Jinja2`
 - **Backend**: SQLite for initial dataset extraction
+
+
+## 📂 Project Structure
+
+```bash
+.
+├── code/                     # Core source code (.py and .ipynb)
+│   ├── AllNewsData.py/ipynb       # Extract + clean data from SQLite
+│   ├── EDA_Analysis.py/ipynb      # Visualizations and trends
+│   ├── Embeddings_optimized.py    # Main SWOT categorization logic
+│   ├── Summarize.py               # Keyword-based summarizer
+│   └── app.py                     # Flask web app interface
+├── output/
+│   ├── output2.pdf
+├── report/
+│   └── Deep_Learning_report_Final.pdf
+├── requirements.txt
+└── README.md

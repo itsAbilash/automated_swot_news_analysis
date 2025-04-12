@@ -1,0 +1,1 @@
+# automated_swot_news_analysis

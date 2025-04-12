@@ -33,9 +33,9 @@ Developed as part of *IDS 572 – Deep Learning & Modern Applications* at the Un
 ├── code/                     # Core source code (.py and .ipynb)
 │   ├── AllNewsData.py/ipynb       # Extract + clean data from SQLite
 │   ├── EDA_Analysis.py/ipynb      # Visualizations and trends
-│   ├── Embeddings_optimized.py    # Main SWOT categorization logic
-│   ├── Summarize.py               # Keyword-based summarizer
-│   └── app.py                     # Flask web app interface
+│   ├── Embeddings_optimized.pynb    # Main SWOT categorization logic
+│   ├── Summarize.pynb               # Keyword-based summarizer
+│   └── app.pynb                    # Flask web app interface
 ├── output/
 │   ├── output2.pdf
 ├── report/

@@ -36,7 +36,7 @@ In an era of information overload, this project sets out to transform business n
 | Category | Tools & Libraries |
 |---------|-------------------|
 | **Language** | Python 3.10 |
-| **NLP Models** | `sentence-transformers`, `spaCy`, `nltk`, `regex`, `scikit-learn` |
+| **NLP Models** | `sentence-transformers`, `all-MiniLM-L6-v2`, `spaCy`, `nltk`, `regex`, `scikit-learn` |
 | **Data Processing** | `pandas`, `dask`, `tqdm`, `sqlite3` |
 | **Computation** | `PyTorch` (with GPU acceleration) |
 | **Visualization** | `matplotlib`, `seaborn`, `wordcloud` |
